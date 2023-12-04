@@ -1,1 +1,2 @@
 Examen EDD
+Estructura principal del proyecto
